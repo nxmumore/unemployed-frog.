@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UNEMPLOYED FROG — $RIBBIT</title>
+<meta name="description" content="No job. No roadmap. Just $RIBBIT.">
+<style>
+*{box-sizing:border-box} body{margin:0;background:#090b09;color:#f4f7f1;font-family:Arial,Helvetica,sans-serif}
+.wrap{max-width:1100px;margin:auto;padding:24px}
+nav{display:flex;justify-content:space-between;align-items:center;padding:10px 0 25px}
+.logo{font-weight:900;font-size:22px;color:#8cff3d}.navlinks a{color:#fff;text-decoration:none;margin-left:20px;font-weight:700}
+.hero{border:1px solid #273027;border-radius:28px;padding:55px 30px;text-align:center;background:linear-gradient(145deg,#101510,#0a0c0a)}
+h1{font-size:clamp(52px,10vw,110px);line-height:.85;margin:0;color:#8cff3d;text-transform:uppercase;font-weight:1000}
+.tag{font-size:20px;margin:25px auto;max-width:650px;color:#c9d1c6}
+.btn{display:inline-block;padding:15px 24px;border-radius:999px;margin:7px;text-decoration:none;font-weight:900;border:1px solid #8cff3d;color:#091008;background:#8cff3d}
+.btn.alt{background:transparent;color:#fff}
+.hero img{width:100%;max-width:700px;border-radius:20px;margin-top:25px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin-top:20px}
+.card{background:#101410;border:1px solid #273027;border-radius:20px;padding:25px}
+.card h2{color:#8cff3d;margin-top:0}
+.big{font-size:38px;font-weight:900}
+footer{text-align:center;color:#899188;padding:50px 0 20px}
+small{color:#727a70}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav>
+<div class="logo">🐸 $RIBBIT</div>
+<div class="navlinks">
+<a href="#story">Story</a><a href="#roadmap">Roadmap</a><a href="#tokenomics">Tokenomics</a>
+</div>
+</nav>
+
+<section class="hero">
+<div style="font-size:18px;font-weight:900;letter-spacing:3px">SOLANA MEME COIN</div>
+<h1>UNEMPLOYED<br>FROG</h1>
+<p class="tag">No job. No roadmap. No financial advice.<br>He was supposed to get a job. Instead, he launched a memecoin.</p>
+<a class="btn" href="https://x.com/UnemployedFrog" target="_blank">JOIN X</a>
+<a class="btn alt" href="#tokenomics">VIEW $RIBBIT</a>
+<img src="unemployed-frog.png" alt="Unemployed Frog meme">
+</section>
+
+<section id="story" class="grid">
+<div class="card"><h2>🐸 The Story</h2><p>He applied for 47 jobs. Got 0 replies. So naturally, he became the CEO of absolutely nothing.</p></div>
+<div class="card"><h2>💼 His Job</h2><p>Wake up. Check chart. Drink coffee. Post meme. Ignore responsibilities. Repeat.</p></div>
+<div class="card"><h2>📈 The Mission</h2><p>Turn unemployment into entertainment, one ridiculous frog meme at a time.</p></div>
+</section>
+
+<section id="roadmap" class="card" style="margin-top:20px">
+<h2>ROADMAP</h2>
+<div class="grid">
+<div><div class="big">01</div><p>Quit job</p></div>
+<div><div class="big">02</div><p>Make meme</p></div>
+<div><div class="big">03</div><p>Go viral</p></div>
+<div><div class="big">04</div><p>Pretend this was the plan</p></div>
+</div>
+</section>
+
+<section id="tokenomics" class="grid">
+<div class="card"><h2>💰 Tokenomics</h2><p><b>100%</b> memes<br><b>0%</b> employment<br><b>0%</b> seriousness</p></div>
+<div class="card"><h2>🪙 Ticker</h2><p class="big">$RIBBIT</p><small>Solana — contract address to be added after launch</small></div>
+<div class="card"><h2>⚠️ Disclaimer</h2><p>Entertainment only. This is a meme project, not financial advice. Crypto is risky and you can lose money.</p></div>
+</section>
+
+<section class="card" style="margin-top:20px;text-align:center">
+<h2>THE FROG'S OFFICE</h2>
+<p>Follow the unemployment department.</p>
+<a class="btn" href="https://x.com/UnemployedFrog" target="_blank">@UnemployedFrog</a>
+</section>
+
+<footer>UNEMPLOYED FROG 🐸 — $RIBBIT<br><small>No job. No roadmap. Just memes.</small></footer>
+</div>
+</body>
+</html>
