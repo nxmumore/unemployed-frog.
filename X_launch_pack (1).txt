@@ -1,7 +1,7 @@
 UNEMPLOYED FROG 🐸
 Ticker: $RIBBIT
 Chain: Solana
-Handle: @UnemployedFrog
+Handle: @UnemployedFrog1
 
 BIO:
 🐸 Unemployed since birth.
